@@ -1,4 +1,4 @@
-# Matlab_for-EE4266-assignment2
+# Symbol_Detector
 
 Fourier Descriptor for detecting numbers or letters
 
